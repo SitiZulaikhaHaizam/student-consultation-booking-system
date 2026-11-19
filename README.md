@@ -15,9 +15,9 @@ The system allows students to view available consultation slots, submit consulta
 
 ## Project Members
 
-1. Siti Zulaikha Haizam
-2. [Member 2 Name]
-3. [Member 3 Name]
+1. Siti Zulaikha Binti Haizam (312356)
+2. Annur Najwa Maisarah Binti Anuar (304930)
+3. Nurain Farisha Binti Mohd Fadhil (311075)
 
 ## Technologies Used
 
